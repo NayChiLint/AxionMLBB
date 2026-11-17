@@ -1,0 +1,7 @@
+# Gradle and large zips
+.gradle/
+gradle-8.5.zip
+*.zip
+build/
+app/build/
+.DS_Store
